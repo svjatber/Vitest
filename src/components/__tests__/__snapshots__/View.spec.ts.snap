@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Creating snapshot > first inline snapshot 1`] = `"WorldComponent"`;
+
+exports[`Creating snapshot > first snapshot 1`] = `"Hello222322323"`;
